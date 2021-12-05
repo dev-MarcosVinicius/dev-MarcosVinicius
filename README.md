@@ -68,7 +68,7 @@ Desenvolvedor, apaixonado por Mobile, Back-end, Arquitetura de Software, DevOps 
 
 ## :pencil: Artigos
 
-<a target="_blank" href=""><img width="150px" src="http://minjimodasiatica.com/wp-content/uploads/2021/06/em-breve.jpg"> 
+<a target="_blank" href="https://medium.com/@dev-MarcosVinicius/otimizando-apis-usando-caching-com-nodejs-e-redis-a7963d85ceaf"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dev-MarcosVinicius/0"> 
 
 ## Contato
 <a href="https://linkedin.com/in/dev-MarcosVinicius" target="_blank">
