@@ -71,6 +71,9 @@ Desenvolvedor, apaixonado por Mobile, Back-end, Arquitetura de Software, DevOps 
 <a target="_blank" href=""><img width="150px" src="http://minjimodasiatica.com/wp-content/uploads/2021/06/em-breve.jpg"> 
 
 ## Contato
-<a href="www.linkedin.com/in/dev-MarcosVinicius" target="_blank">
+<a href="https://linkedin.com/in/dev-MarcosVinicius" target="_blank">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+</a>
+<a href="https://medium.com/@dev-MarcosVinicius" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/>
 </a>
