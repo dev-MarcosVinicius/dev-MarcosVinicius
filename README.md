@@ -69,6 +69,7 @@ Desenvolvedor, apaixonado por Mobile, Back-end, Arquitetura de Software, DevOps 
 ## :pencil: Artigos
 
 <a target="_blank" href="https://medium.com/@dev-MarcosVinicius/otimizando-apis-usando-caching-com-nodejs-e-redis-a7963d85ceaf"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dev-MarcosVinicius/0"> 
+<a target="_blanck" href="https://medium.com/@dev-MarcosVinicius/transforme-a-maneira-como-voc%C3%AA-cria-componentes-css-in-js-835526b1b930"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dev-MarcosVinicius/1">
 
 ## Contato
 <a href="https://linkedin.com/in/dev-MarcosVinicius" target="_blank">
