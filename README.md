@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-MarcosVinicius&color=yellow" alt="Views" /> </p>
 
-<img src="https://i.gifer.com/5eKX.gif" width="600px">
+<p> <img src="https://i.gifer.com/5eKX.gif" width="600px"> </p>
 
 ## 💡 More about me
  - *Coding from Fortaleza/CE.* 
