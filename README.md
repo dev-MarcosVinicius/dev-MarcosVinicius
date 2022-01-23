@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-MarcosVinicius&color=yellow" alt="Views" /> </p>
 
-<p> <img src="https://i.gifer.com/5eKX.gif" width="600px"/> </p>
+<div style="padding-top:75.000%;position:relative;"><iframe src="https://gifer.com/embed/5eKX" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">através de GIFER</a></p>
 
 ## 💡 More about me
  - *Coding from Fortaleza/CE.* 
