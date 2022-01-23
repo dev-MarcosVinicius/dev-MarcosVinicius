@@ -1,10 +1,21 @@
-<h1 align="left">Fala Devs! :technologist: Sou Marcos Oliveira.</h1>
+<h1 align="left">Hi Devs! :technologist: I'm Marcos Oliveira.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-Desenvolvedor, apaixonado por Mobile, Back-end, Arquitetura de Software, DevOps e Liderança.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-MarcosVinicius&color=yellow" alt="Views" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-MarcosVinicius&color=yellow" alt="Vizualizações" /> </p>
+<img src="https://i.gifer.com/5eKX.gif" width="600px">
 
-## 🛠 &nbsp;Stack de Domínio
+## 💡 More about me
+ - *Coding from Fortaleza/CE.* 
+
+ - *Graduated in Systems Analysis and Development.* 
+ 
+ - *Passionate about Mobile, Backend, Software Architecture, DevOps and Leadership. 💙* 
+ 
+ - *Software Engineer na [Tallos](https://tallos.com.br/) 🚀*
+ 
+ - *Lover of education and sharing knowledge, so whatever you need i am at your disposal.* 
+
+## 🛠 &nbsp;Stack
 
 #### Linguagens 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -57,24 +68,27 @@ Desenvolvedor, apaixonado por Mobile, Back-end, Arquitetura de Software, DevOps 
 
 <br><br>
 
-## :chart_with_upwards_trend: Análise do GitHub
+## :chart_with_upwards_trend: Statistics
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=dev-MarcosVinicius&show_icons=true&theme=swift"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-MarcosVinicius&layout=compact&theme=swift"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-MarcosVinicius&layout=compact&theme=swift"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-MarcosVinicius&show_icons=true&theme=swift"/>
+</div>
 
 <br>
 
-## :pencil: Artigos
+## :pencil: Articles
 
 <a target="_blank" href="https://medium.com/@dev-MarcosVinicius/otimizando-apis-usando-caching-com-nodejs-e-redis-a7963d85ceaf"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dev-MarcosVinicius/0"> 
 <a target="_blanck" href="https://medium.com/@dev-MarcosVinicius/transforme-a-maneira-como-voc%C3%AA-cria-componentes-css-in-js-835526b1b930"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dev-MarcosVinicius/1">
 
-## Contato
+## :speech_balloon: Let's talk!
 <a href="https://linkedin.com/in/dev-MarcosVinicius" target="_blank">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 <a href="https://medium.com/@dev-MarcosVinicius" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/>
+</a>
+<a href="https://instagram.com/dev.marcosvinicius/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="linkedin"/>
 </a>
