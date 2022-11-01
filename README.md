@@ -9,8 +9,6 @@
  
  - *Passionate about Mobile, Backend, Software Architecture, DevOps and Leadership. 💙* 
  
- - *Software Engineer na [Tallos](https://tallos.com.br/) 🚀*
- 
  - *Lover of education and sharing knowledge, so whatever you need i am at your disposal.* 
 
 ## 🛠 &nbsp;Stack
@@ -88,8 +86,8 @@
 
 ## :pencil: Articles
 
-<a target="_blank" href="https://medium.com/@dev-MarcosVinicius/otimizando-apis-usando-caching-com-nodejs-e-redis-a7963d85ceaf"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dev-MarcosVinicius/0"> 
-<a target="_blanck" href="https://medium.com/@dev-MarcosVinicius/transforme-a-maneira-como-voc%C3%AA-cria-componentes-css-in-js-835526b1b930"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dev-MarcosVinicius/1">
+<a target="_blank" href="https://medium.com/@dev-MarcosVinicius/otimizando-apis-usando-caching-com-nodejs-e-redis-a7963d85ceaf"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dev-MarcosVinicius/0"></img></a>
+<a target="_blanck" href="https://medium.com/@dev-MarcosVinicius/transforme-a-maneira-como-voc%C3%AA-cria-componentes-css-in-js-835526b1b930"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dev-MarcosVinicius/1"></img></a>
 
 ## :speech_balloon: Let's talk!
 <a href="https://linkedin.com/in/dev-MarcosVinicius" target="_blank">
